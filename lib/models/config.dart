@@ -36,7 +36,7 @@ class ConfigSetting extends Setting<ConfigSetting> with ChangeNotifier {
   @HiveField(4)
   bool enableDataProtection = false;
   @HiveField(5)
-  String fileHeaderInfo = "import 'package:hgg_base/hgg_base.dart';";
+  String fileHeaderInfo = "import 'package:flutter_base_lib/base_lib.dart';\nimport 'package:wellness/network/base_bean.dart';";
   @HiveField(6)
   int traverseArrayCount = 1;
   @HiveField(7)
