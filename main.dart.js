@@ -21774,7 +21774,7 @@ _.r=!1
 _.x=2
 _.y=3
 _.Q=_.z=!1
-_.ch="import 'package:hgg_base/hgg_base.dart';"
+_.ch="import 'package:flutter_base_lib/base_lib.dart';\nimport 'package:wellness/network/base_bean.dart';"
 _.cx=1
 _.cy=a
 _.db=b
